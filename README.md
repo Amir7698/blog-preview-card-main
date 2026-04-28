@@ -1,6 +1,6 @@
 # 📄 Blog Preview Card
 
-A simple and responsive **blog preview card** built with HTML and CSS.  
+A simple and responsive **blog preview card** built with HTML and CSS.
 This project is inspired by a Frontend Mentor challenge.
 
 🔗 Live Demo: [View Project](https://amir7698.github.io/blog-preview-card-main/)
@@ -33,13 +33,14 @@ This project is inspired by a Frontend Mentor challenge.
 ---
 
 ## 📁 Project Structure
+
+\```
 blog-preview-card/
-│
 ├── index.html
 ├── style.css
 └── assets/
-└── images/
-
+    └── images/
+\```
 
 ---
 
@@ -54,8 +55,8 @@ blog-preview-card/
 
 ## 🚀 Getting Started
 
-If you want to run this project locally:
+Clone the repository and open `index.html` in your browser:
 
-1. Clone the repository
-```bash
+\```bash
 git clone https://github.com/amir7698/blog-preview-card-main.git
+\```
