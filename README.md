@@ -32,18 +32,6 @@ This project is inspired by a Frontend Mentor challenge.
 
 ---
 
-## 📁 Project Structure
-
-\```
-blog-preview-card/
-├── index.html
-├── style.css
-└── assets/
-    └── images/
-\```
-
----
-
 ## 🧠 What I Learned
 
 - How to structure a simple UI card
