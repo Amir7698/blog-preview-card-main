@@ -33,3 +33,29 @@ This project is inspired by a Frontend Mentor challenge.
 ---
 
 ## 📁 Project Structure
+blog-preview-card/
+│
+├── index.html
+├── style.css
+└── assets/
+└── images/
+
+
+---
+
+## 🧠 What I Learned
+
+- How to structure a simple UI card
+- Using Flexbox for centering content
+- Working with spacing, typography, and shadows
+- Better understanding of container vs card layout
+
+---
+
+## 🚀 Getting Started
+
+If you want to run this project locally:
+
+1. Clone the repository
+```bash
+git clone https://github.com/amir7698/blog-preview-card-main.git
